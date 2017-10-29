@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es2015",
+      "es2016",
+      "es2017",
+      "es6",
+      "esnext"
+    ],
+    "module": "commonjs",
+    "target": "esnext",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "moduleResolution": "Node",
+    "declaration": true,
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
