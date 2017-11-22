@@ -3,3 +3,4 @@
 dist/
 *.js
 !_*.js
+/node_modules/
