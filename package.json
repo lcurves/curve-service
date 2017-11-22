@@ -1,7 +1,8 @@
 {
   "name": "@lcurves/curve-service",
   "version": "1.0.11",
-  "description": "",
+  "description": "a package to create a micro-service for learning-curves",
+  "repository": "git@github.com:lcurves/curve-service.git",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
